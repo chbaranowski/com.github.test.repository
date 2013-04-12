@@ -1,4 +1,3 @@
-
 public class Demo {
 	
 	public static void main() {
@@ -6,7 +5,7 @@ public class Demo {
 	}
 	
 	public void soSomethingHere() {
-	    do IT here
+	    // TODO: The implementation
 	}
 	
 }
