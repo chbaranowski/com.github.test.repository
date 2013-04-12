@@ -5,4 +5,8 @@ public class Demo {
 		// TODO:
 	}
 	
+	public void soSomethingHere() {
+	    
+	}
+	
 }
