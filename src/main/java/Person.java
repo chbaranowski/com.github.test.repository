@@ -3,7 +3,7 @@ public class Person {
 	String name;
 
 	public void foo() {
-		System.out.println();
+		System.out.println(42);
 	}
 
 }
