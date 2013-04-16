@@ -1,1 +1,21 @@
-/.project
+# Gradle
+build/
+.gradle/
+
+# Eclipse
+bin/
+.cache
+.classpath
+.project
+.settings
+.groovy
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Mac
+.DS_Store
