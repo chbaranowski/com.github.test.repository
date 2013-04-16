@@ -1,5 +1,7 @@
 public class Person {
 
-  public void foo(){}
+	public void foo() {
+		System.out.println();
+	}
 
 }
