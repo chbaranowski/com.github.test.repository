@@ -1,6 +1,6 @@
 public class Person {
-  
-  String name;
+
+	String name;
 
 	public void foo() {
 		System.out.println();
