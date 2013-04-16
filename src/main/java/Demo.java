@@ -1,7 +1,7 @@
 public class Demo {
 
 	public static void main() {
-		System.out.println("DO IT");
+		System.out.println("Main");
 	}
 
 	public void soSomethingHere() {
