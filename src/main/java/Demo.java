@@ -8,5 +8,9 @@ public class Demo {
 	public void soSomethingHere() {
 		System.out.println("XY");
 	}
+	
+	public void testname() throws Exception {
+		
+	}
 
 }
