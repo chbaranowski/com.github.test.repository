@@ -6,6 +6,7 @@ public class Demo {
 	}
 
 	public void soSomethingHere() {
+		int x = 2;
 	}
 
 }
