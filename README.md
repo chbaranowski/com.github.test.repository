@@ -23,3 +23,8 @@ Select on the left side in the editor the change and then stage the change via t
 Go to the SCM view in code open the file in the diff viewer and select the lines which you like to stage. Select in the menu `...` and click on `Stage selected Range`.
 
 ![Code stage partial changes in diff editor](src/docs/images/editor-git-diff-partial-stage.png)
+
+## GIT Flow and Code
+
+To use GIT Flow in Visual Studio Code there is a nice extension `GitFlow4Code` see:
+https://github.com/shaggy13spe/gitflow4code/
