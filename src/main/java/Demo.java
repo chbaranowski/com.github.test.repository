@@ -11,7 +11,7 @@ public class Demo {
 		System.out.println("XY");
 	}
 	
-	public void testname() throws Exception {
+	public void test() throws Exception {
 		
 	}
 
