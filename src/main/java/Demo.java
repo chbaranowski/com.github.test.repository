@@ -11,8 +11,6 @@ public class Demo {
 		System.out.println("XY");
 	}
 	
-	public void test() throws Exception {
-		
-	}
+	public void test() throws Exception {}
 
 }
