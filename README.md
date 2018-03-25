@@ -8,6 +8,9 @@ Setup visual studio code as GIT editor.
 
 		git config --global core.editor "code --wait"
 
+## Code as GIT DiffTool
+TODO
+
 ## GIT Partial Commits
 
 With `git add -p <file>` you can decide which changes in the file should be staged. 
