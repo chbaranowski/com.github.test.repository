@@ -10,5 +10,7 @@ public class Demo {
 	public void soSomethingHere() {
 		System.out.println("XY");
 	}
+	
+	public void test() throws Exception {}
 
 }
