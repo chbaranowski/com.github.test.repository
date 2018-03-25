@@ -1,6 +1,6 @@
 public class Demo {
-
-	String testName;
+	
+	String name;
 
 	public static void main() {
 	    int i = 42;
