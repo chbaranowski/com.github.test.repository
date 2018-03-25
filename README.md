@@ -8,6 +8,24 @@ Setup visual studio code as GIT editor.
 
 		git config --global core.editor "code --wait"
 
+## Code as GIT DiffTool
+
+Add this to GIT configuration
+
+	[diff]
+    tool = default-difftool
+	[difftool "default-difftool"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+
+## Code as GIT MergeTool
+
+Add this to GIT configuration
+
+	[merge]
+    tool = default-mergetool
+	[mergetool "default-mergetool"]
+    cmd = code --wait $MERGED
+
 ## GIT Partial Commits
 
 With `git add -p <file>` you can decide which changes in the file should be staged. 
